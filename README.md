@@ -12,4 +12,5 @@ The Second Program: Arthametic operations with using scanner class
 Out Put:
 
 ![Screenshot 2023-12-06 183047](https://github.com/jeereddidurga/java-programs/assets/152489790/a5d087ef-5f51-4556-bd40-142cd38ac2ba)
+
 ![Screenshot 2023-12-06 183309](https://github.com/jeereddidurga/java-programs/assets/152489790/9a75e0da-c567-4dd3-b16f-a08a83b786cc)
